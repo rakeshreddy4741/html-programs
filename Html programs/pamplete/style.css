@@ -1,0 +1,45 @@
+body {
+    color:white;
+}
+    
+
+
+div{
+    background-color: #ffff99;
+    font-family: Courier New;
+    width: 600px;
+    margin-left: 400px;
+    padding: 70px;
+}
+ 
+h1 {
+ color: #ff6600;
+ font-family: Impact;
+ border: #ff6600 solid;
+ padding: 10;
+ 
+ text-align: center;
+}
+ 
+ 
+h2 {
+ background-color: #ff6600;
+ color: #ffff99;
+ font-family: Helvetica;
+ 
+}
+ 
+ol {
+ background-color:  #ffcc00;
+ font-family: Helvetica;
+}
+ 
+li {
+ color: #ffff99;
+}
+ 
+p {
+    font-family: Helvetica;
+    color: black;
+    border: 2px #ffcc00 dashed;
+}

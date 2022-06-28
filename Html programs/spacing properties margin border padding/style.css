@@ -1,0 +1,29 @@
+body{
+    background-color:#99ffff ;
+    margin: 0 20 0 0;
+
+}
+h1 {
+    background-color: #ff6699;
+    margin: 50 100 0 100;
+    border-bottom:20px #ff0066 solid;
+    padding: 10px;
+}
+ul { 
+    background-color:#ff9933;
+    margin: 100 100 50 100;
+    border-left: 5px black dashed;
+    padding: 10px;;
+}
+li {
+    background-color: #ffcc66;
+    margin: 0 0 50 0;
+   
+}
+p {
+    background-color:#ccff99;
+    border: 10px white double
+    ;
+    margin: 0 100 0 100;
+
+}
